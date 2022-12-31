@@ -20,7 +20,7 @@ The caption columns should NOT be colored. Each cell of the table has width and 
 
 ## Screenshot
 
-![App Screenshot](https://github.com/DimitrovVladimir/phpMore/blob/master/50%20shades%20of%20gray%20picture.png)
+![App Screenshot](https://github.com/DimitrovVladimir/phpMore/blob/master/rgb%20picture.png)
 
 ## Problem: 50 Shades of Grey
 
